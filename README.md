@@ -1,6 +1,6 @@
 # kledo
 
-1. Git Clone 
+1. Git Clone git@github.com:mahendraiqbal/kledo.git
 2. copu .env.example to .env
 3. run composer install
 4. Run php artisan migrate:fresh --seed
